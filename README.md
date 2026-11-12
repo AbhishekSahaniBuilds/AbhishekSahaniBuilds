@@ -2,7 +2,7 @@
 
 # ABHISHEK SAHANI
 
-### SOFTWARE ENGINEERING · AI · TECHNOLOGY
+### WEB-DEV · AI/ML · TECHNOLOGY
 
 **Building powerful things. Keeping them simple.**
 
@@ -36,13 +36,13 @@ I work across different areas of technology, combining software development with
 
 ### CURRENT STATUS
 
-| Area            | Status        |
-| :-------------- | :------------ |
-| Web Development | Exploring     |
-| AI / LLMs       | Learning      |
-| Neural Networks | Learning      |
-| Automation      | Experimenting |
-| Electronics     | Building      |
+| Area            | Status            |
+| :-------------- | :---------------- |
+| Web Development | Building/Learning |
+| AI / LLMs       | Learning          |
+| Neural Networks | Learning          |
+| Automation      | Experimenting     |
+| Electronics     | Building          |
 
 **Mindset**
 
