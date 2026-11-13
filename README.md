@@ -76,19 +76,20 @@ Learn → Build → Test → Break → Improve
 | Design              | Figma, Inkscape                 |
 | Electronics         | Arduino IDE                     |
 | Visualization       | Processing, Serial Studio       |
+| AI Tools            | Claude, Github Copilot          |
 
 ## 02 / LANGUAGE PROFICIENCY
 
-| Language   | Proficiency        | Current Focus                                          |
-| :--------- | :----------------- | :----------------------------------------------------- |
-| Python     | Advanced           | Functions, OOP, Automation, Data Analysis, PyTorch     |
-| JavaScript | Intermediate       | Functions, DOM, JSX, React & Libraries                 |
-| TypeScript | Beginner           | Type Systems, Interfaces & React Integration           |
-| C          | Beginner           | Pointers, Memory Management & Low-Level Programming    |
-| C++        | Intermediate       | Arduino Development & OOP                              |
-| Java       | Intermediate       | OOP, Core Concepts & Application Development           |
-| HTML       | Advanced           | Semantic HTML, Tables, Page Structure & Unique Designs |
-| CSS        | Basic–Intermediate | Flexbox, Grid, Responsive Design & Styling             |
+| Language   | Proficiency        | Current Focus                                       |
+| :--------- | :----------------- | :-------------------------------------------------- |
+| Python     | Advanced           | Automation, Data Analysis, PyTorch                  |
+| JavaScript | Intermediate       | JSX, React & Libraries                              |
+| C          | Beginner           | Pointers, Memory Management & Low-Level Programming |
+| C++        | Intermediate       | Arduino Development & OOP                           |
+| TypeScript | Beginner           | Type Systems, Interfaces & React Integration        |
+| Java       | Intermediate       | OOP, Core Concepts & Application Development        |
+| HTML       | Advanced           | Tables, Page Structure & Unique Designs             |
+| CSS        | Basic–Intermediate | Flexbox, Grid, Responsive Design & Styling          |
 
 ## 03 / CURRENT EXPERIMENTS
 
@@ -101,7 +102,7 @@ Learn → Build → Test → Break → Improve
 </td>
 <td valign="top">
 
-LLMs · Neural Networks · AI Applications · PyTorch
+LLMs · Neural Networks · AI Automation · PyTorch
 
 </td>
 </tr>
@@ -125,7 +126,7 @@ Advanced TypeScript · C · Java · React · FastAPI
 </td>
 <td valign="top">
 
-Python · AI-Assisted Workflows · Process Automation
+Python · AI-Assisted Workflows
 
 </td>
 </tr>
@@ -145,23 +146,16 @@ Software-Hardware Integration
 
 ## 04 / SELECTED WORK
 
-<details>
-<summary><strong>PROJECTS — CURRENTLY EXPANDING</strong></summary>
+### Quick Switch
 
-<!-- Add projects using this format:
-### Project Name
+A fast, lightweight AI chatbot with minimal overhead. Powered by Groq and built with a modern, efficient stack.
 
-Short description of what the project does.
+**Stack:** React · FastAPI · Groq
+**LANGUAGE:** Python · JavaScript
 
-**Stack:** Technology 1 · Technology 2
-
-[Repository](YOUR_REPOSITORY_URL)
-
--->
-
-_New projects will be showcased here as they become ready._
-
-</details>
+- [Quick Switch on Github](https://github.com/AbhishekSahaniBuilds/Quick-Switch)
+- [Quick Switch Website](https://abhisheksahanibuilds.github.io/Quick-Switch)
+- [Quick Switch Documentation](https://abhisheksahanibuilds.github.io/Doc-Stack/projects/Quick-Switch/)
 
 ## 05 / CONNECT
 
