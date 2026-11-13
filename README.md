@@ -137,7 +137,7 @@ Python · AI-Assisted Workflows · Process Automation
 </td>
 <td valign="top">
 
-Arduino · Software-Hardware Integration · Experimentation
+Software-Hardware Integration
 
 </td>
 </tr>
@@ -163,15 +163,7 @@ _New projects will be showcased here as they become ready._
 
 </details>
 
-## 05 / BEYOND THE CODE
-
-- Experimenting with unfamiliar technologies.
-- Combining software development with physical electronics.
-- Building things from scratch to understand their internals.
-- Using AI for boilerplate development and small refinements.
-- Exploring ways to automate repetitive workflows.
-
-## 06 / CONNECT
+## 05 / CONNECT
 
 <div align="center">
 
@@ -194,32 +186,6 @@ No question is considered too simple, silly, or unusual as long as it comes from
 I don't just want to use technology. I want to understand it, experiment with it, and build something meaningful with it.
 
 **Curiosity drives the ideas. Engineering brings them to life.**
-
----
-
-<div align="center">
-
-**FEAR TO START?**
-
-> _"Action cures fear."_
->
-> — David J. Schwartz
-
-**HAVE SELF-DOUBT?**
-
-> _"Whatever the mind can conceive and believe, it can achieve."_
->
-> — Napoleon Hill
-
-**FEAR TO FAIL?**
-
-> _“I have not failed. I've just found 10,000 ways that won't work.”_
->
-> — Thomas A. Edison
-
----
-
-</div>
 
 ### READ. LEARN. BUILD. TEST. BREAK. LEARN. REPEAT.
 
